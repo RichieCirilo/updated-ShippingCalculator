@@ -6,7 +6,7 @@ public class ShipItem {
     static final Double EXTRA = 4.00;
     static final int BASE_WEIGHT = 16;
     static final int EXTRA_WEIGHT = 30;
-    
+
 
     public ShipItem()
     {
