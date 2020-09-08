@@ -24,6 +24,7 @@ public class ShipItem {
             return EXTRA;
         }
         return BASE;
+
     }
 
     public void setWeight(Double weight) {
@@ -44,5 +45,5 @@ public class ShipItem {
         return getBaseCost() + getAddedCost();
     }
 
-    
+
 }
