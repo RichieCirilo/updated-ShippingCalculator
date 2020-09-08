@@ -43,4 +43,6 @@ public class ShipItem {
     {
         return getBaseCost() + getAddedCost();
     }
+
+    
 }
